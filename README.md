@@ -1,8 +1,7 @@
 ## Olá Meu nome é Guilherme
 
-### 🤖 Atualmente trabalho com Automação Industrial.
-### 💻 Buscando migração de carreira para área de desenvolvimento de sistemas.
-### 👨🏿‍💻 Estudando programação nas linguagens C#, java, javascript, html, Css e bancos de dados SQL
+### 💻 Estagiário em Desenvolvimento de Software - Back-end.
+### 👨🏿‍💻 Estudando programação nas linguagens  C#, java, javascript, html, Css e bancos de dados SQL, NodeJs e Express
 
 
 
