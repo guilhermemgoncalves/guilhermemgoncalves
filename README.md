@@ -2,9 +2,9 @@
 
 ### 💻 Desenvolvedor Web Junior na Avanade do Brasil
 ### 👨🏿‍💻 Estudando linguagens:
-Backend: C#, java,  NodeJs , 
-Frondend: Angular, javascript, html, Css 
-bancos de dados: MySQL e mongoDB
+#Backend: C#, java,  NodeJs , 
+#Frondend: Angular, javascript, html, Css 
+#bancos de dados: MySQL e mongoDB
 
 
 
