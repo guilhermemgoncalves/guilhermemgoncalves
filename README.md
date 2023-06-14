@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor Web Junior 
 ### 👨🏿‍💻 Estudando linguagens:
-<p>Backend: C#, Angular, NodeJS </p>
+<p>Backend: C#, NodeJS </p>
 <p>Frondend: Angular, Javascript, HTML, CSS, TypeScript</p>
 <p>bancos de dados: SQL Server, MySQL e mongoDB </p>
 
