@@ -1,10 +1,10 @@
 ## Olá Meu nome é Guilherme
 
-### 💻 Desenvolvedor Web Junior na Avanade do Brasil
+### 💻 Desenvolvedor Web Junior 
 ### 👨🏿‍💻 Estudando linguagens:
-<p>Backend: C#, Java,  NodeJS </p>
+<p>Backend: C#, Angular, NodeJS </p>
 <p>Frondend: Angular, Javascript, HTML, CSS, TypeScript</p>
-<p>bancos de dados: MySQL e mongoDB </p>
+<p>bancos de dados: SQL Server, MySQL e mongoDB </p>
 
 
 
