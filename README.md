@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/guilhermemgoncalves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermemgoncalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" color="green" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemgoncalves&layout=compact&langs_count=7&theme=dark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=guilhermemgoncalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" color="green" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemgoncalves&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div>
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
